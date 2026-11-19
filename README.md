@@ -23,7 +23,7 @@
   
   <!-- **[Resumé (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20WDSeo_CV.pdf)** -->
 
-  **[Personal Homepage](https://sites.google.com/view/miracleboy-wondoo/home) ← RECOMMENDED for more information about me!**
+  **[Personal Homepage](https://wondooseo.github.io) ← RECOMMENDED for more information about me!**
 
   <!-- **[CV (KOR)](https://github.com/WondooSeo/WondooSeo/blob/main/%5BKOR%5D%20CV_221117.pdf)** -->
 
